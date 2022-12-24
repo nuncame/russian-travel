@@ -20,11 +20,7 @@
 @media (max-width: 1023px) {
   .place {
     grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
-    column-gap: 28px;
     margin-bottom: 73px;
-  }
-  .place:last-child {
-    margin-bottom: 90px;
   }
 }
 
@@ -37,9 +33,9 @@
 @media (max-width: 479px) {
   .place {
     grid-template-columns: minmax(min-content, 320px);
-    row-gap: 32px;
     margin-bottom: 50px;
   }
+  
   .place:last-child {
     margin-bottom: 66px;
   }

@@ -6,9 +6,7 @@
 
 @media (max-width: 1279px) {
   .cover {
-    max-width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    max-width: 1024px;
   }
 }
 
@@ -21,8 +19,14 @@
 
 @media (max-width: 767px) {
   .cover {
-    max-width: calc(100vw - 32px);
+    max-width: 624px;
     margin-bottom: 64px;
+  }
+}
+
+@media (max-width: 623px) {
+  .cover {
+    max-width: 480px;
   }
 }
 

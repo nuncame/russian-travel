@@ -6,9 +6,12 @@
   text-decoration: none;
   color: #ffffff;
   margin-left: 18px;
+  transition: 0.4s;
 }
 
-
+.header__lang-link:hover {
+  opacity: 0.8;
+}
 
 @media (max-width: 767px) {
   .header__lang-link {
