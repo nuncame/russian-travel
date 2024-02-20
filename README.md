@@ -4,4 +4,4 @@
 
 Полон полезной информации и ссылок, которые пригодятся начинающему путешественнику.
 
-Ссылка на проект - https://nuncame.github.io/russian-travel/
+[Ссылка на проект тут](https://nuncame.github.io/russian-travel/)
